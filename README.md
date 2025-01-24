@@ -1,4 +1,4 @@
-# Proxy server with analtyics
+# Proxy server with analytics
 
 1) A TCP proxy implemented on top of sockets in less than 150 LOC
 
